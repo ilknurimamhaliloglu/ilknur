@@ -1,0 +1,65 @@
+.Second-App {
+	text-align: center;
+}
+.Second-Div {
+	background-color: #fbfbfd;
+	height: 735px;
+	margin: 0px;
+	padding-top: 25px;
+}
+.Second-Div-p1 {
+	color: #000000;
+	font-size: 55px;
+	font-weight: 635;
+	line-height: 50px;
+	margin: 0px;
+	margin-top: 50px;
+}
+.Second-Div-p2 {
+	color: #000000;
+	font-size: 26px;
+	font-weight: 600px;
+	line-height: 20px;
+	margin: 0px;
+	margin-top: 15px;
+}
+.link-container {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin: 0px;
+	margin-top: 20px;
+	margin-right: 50px;
+}
+.link2 {
+	color: #0066cc;
+	text-decoration: none;
+	font-size: 20px;
+	padding-inline-start: 30px;
+}
+.image-container {
+	align-items: center;
+	justify-content: center;
+	background-color: red;
+}
+.Image2 {
+	width: 97%;
+	margin-right: -5px;
+}
+.bottom-container2 {
+	align-items: center;
+	justify-content: center;
+}
+.second-bottom-p1 {
+	color: #29292b;
+	font-size: 21px;
+	font-weight: 600;
+	margin: 0px;
+	margin-top: 15px;
+}
+.second-bottom-p2 {
+	color: #a5a5a9;
+	font-size: 21px;
+	font-weight: 400;
+	margin: 0px;
+}

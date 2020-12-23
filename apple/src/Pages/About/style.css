@@ -1,0 +1,40 @@
+.About-App {
+	background-color: #f5f5f7;
+	height: 721px;
+}
+.About-Header {
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	color: #000000;
+	padding: 25px;
+}
+.About-Image {
+	height: auto;
+	width: auto;
+}
+.About-Container {
+	display: flex;
+	flex-direction: row;
+}
+.About-Container-Text {
+	color: #000000;
+	padding-left: 40px;
+	padding-right: 40px;
+	text-align: justify;
+}
+.About-p1 {
+	color: #000000;
+	font-size: 18px;
+	font-weight: 500;
+}
+.About-bottom {
+	color: #000000;
+	font-size: 18px;
+	font-weight: 500;
+}
+.About-Container2 {
+	align-items: center;
+	justify-content: center;
+	margin-left: 50px;
+}
